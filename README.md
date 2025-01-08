@@ -1,0 +1,2 @@
+# SMIT-
+Assignment and project
