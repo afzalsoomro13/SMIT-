@@ -1,0 +1,2 @@
+Deposit: $500. New Balance: $500.0
+Withdrawal: $200. New Balance: $300.0
